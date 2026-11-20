@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "apps": [
+    {
+      "id": "soulos.cosmic.kaos",
+      "name": "Cosmic KAOS",
+      "developer": "kaos",
+      "iconUrl": "testapp/app_icon.png",
+      "downloadUrl": "app/main.soa",
+      "size": "2.4 MB",
+      "ageRating": "3+",
+      "description": "2D"
+    }
+  ]
+}
